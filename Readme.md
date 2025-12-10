@@ -67,7 +67,7 @@ jupyter notebook analysis_notebook.ipynb
 
 Run each cell to reproduce the analysis and plots.
 
-📝 Final Thoughts
+Final Thoughts
 
 This project is a great introduction to data exploration, visualization, and storytelling with data.
 It reflects a practical workflow used in analytics and machine learning pipelines.
